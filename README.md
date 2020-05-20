@@ -1,6 +1,7 @@
 # MinimalSurvivalGit
 
 L'idée est d'imager les commandes
+- git init/git clone
 - git pull
 - git add
 - git commit
